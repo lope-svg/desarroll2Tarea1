@@ -1,0 +1,26 @@
+{
+  "name": "desarroll2tarea1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lope-svg/desarroll2Tarea1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lope-svg/desarroll2Tarea1/issues"
+  },
+  "homepage": "https://github.com/lope-svg/desarroll2Tarea1#readme",
+  "devDependencies": {
+    "@semantic-release/commit-analyzer": "^13.0.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/release-notes-generator": "^14.0.1",
+    "semantic-release": "^24.1.1"
+  }
+}
